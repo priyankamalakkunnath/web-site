@@ -1,0 +1,22 @@
+.material-symbols-outlined {
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 24
+  }
+  .material-symbols-outlined {
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 24
+  }
+  .section{
+    width: 2000px;
+    height: 1000px;
+    background-image:url(img/baby1.jpg);
+    background-size: cover;
+
+  }
+  

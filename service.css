@@ -1,0 +1,13 @@
+.section{
+    width: 2000px;
+    height: 2000px;
+    background-image: url(img/baby1.jpg);
+    background-size: cover;
+}
+.box1 {
+    width: 400px;
+    height: 400px;
+    background-color: wheat;
+    border-radius: 20%;
+}
+
